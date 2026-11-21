@@ -1,6 +1,6 @@
 # AIEP 设计开源：AI 员工头像
 
-AIEP（AI 员工聚合平台）中 AI 员工使用的头像素材，以 [CC0 1.0](LICENSE) 公共领域贡献方式开源：可自由复制、修改、商用，无需署名（如愿意注明来源，我们会很感谢）。
+[AIEP（AI 员工聚合平台，aiephub.com）](https://aiephub.com/)中 AI 员工使用的头像素材，以 [CC0 1.0](LICENSE) 公共领域贡献方式开源：可自由复制、修改、商用，无需署名（如愿意注明来源，我们会很感谢）。
 
 ![AI 员工头像预览](preview.png)
 
@@ -58,6 +58,8 @@ AIEP（AI 员工聚合平台）中 AI 员工使用的头像素材，以 [CC0 1.0
 - 深炭色背景 `#1c201f`，在 40px 左右的小尺寸下依然清晰可辨。
 - 素材由 AI 图像生成并经人工挑选与修改，所用提示词见 `prompts/` 目录。
 
+每位员工的岗位介绍见官网 [AI 员工一览](https://aiephub.com/ai-employees/)。
+
 ## 不包含的内容
 
 本仓库只开源上述头像素材。AIEP 名称与品牌标志不在开源范围内，CC0 不授予任何商标权利。
@@ -66,4 +68,4 @@ AIEP（AI 员工聚合平台）中 AI 员工使用的头像素材，以 [CC0 1.0
 
 ## English
 
-AI employee avatars from AIEP, released under [CC0 1.0](LICENSE): free to copy, modify and use commercially, no attribution required. The repository contains 14 individual avatars (`avatars/employees/`), the original 4×3 sprite atlas with its tile coordinates (see the table above; each tile is 314×314), the assistant body artwork, and the prompts used to generate them. The AIEP name and logo are not included and no trademark rights are granted.
+AI employee avatars from [AIEP](https://aiephub.com/), released under [CC0 1.0](LICENSE): free to copy, modify and use commercially, no attribution required. The repository contains 14 individual avatars (`avatars/employees/`), the original 4×3 sprite atlas with its tile coordinates (see the table above; each tile is 314×314), the assistant body artwork, and the prompts used to generate them. The AIEP name and logo are not included and no trademark rights are granted.
